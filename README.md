@@ -1,2 +1,2 @@
-# WebGL_Eleusis
-WebGL hosting for Eleusis
+# WebGL_El
+WebGL hosting for El
